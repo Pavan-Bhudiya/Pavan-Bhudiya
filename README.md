@@ -6,3 +6,6 @@ Im an Experienced full-stack developer with over one year of enterprise experien
 ✉️  You can contact me at pavanbhudiya@gmail.com
 🧠  I'm learning New Concepts in Kotlin
 🤝  I'm open to collaborating on In kotlin,Java, Android ,HTML,Python
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavan-Bhudiya)](https://github.com/Pavan-Bhudiya/github-readme-stats)
