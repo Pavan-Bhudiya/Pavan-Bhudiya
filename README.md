@@ -8,4 +8,4 @@ Im an Experienced full-stack developer with over one year of enterprise experien
 🤝  I'm open to collaborating on In kotlin,Java, Android ,HTML,Python
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavan-Bhudiya)](https://github.com/Pavan-Bhudiya/github-readme-stats)
+
